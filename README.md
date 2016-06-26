@@ -11,7 +11,7 @@ Next step is to send /book ID number, and it will download and send you the book
 - Send the book name and then /book with the ID
 
 # Demo
-![alt tag] (https://github.com/rajdeep1008/kitaab_bot/demo/demo.gif)
+![alt tag] (https://github.com/rajdeep1008/kitaab_bot/blob/master/demo/demo.gif)
 
 # Disclaimer
 This bot is made for educational purposes only and does not support piracy.
