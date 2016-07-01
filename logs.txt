@@ -1,0 +1,2917 @@
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958432,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 721,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958432,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 721,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958460,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 722,
+    "text": "Wpohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958536,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 723,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958586,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 724,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958699,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 725,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958699,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 725,
+    "text": "Woohoo"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959034,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 728,
+    "text": "/start"
+}
+"Hey there rajdeep!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959180,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 730,
+    "text": "Javascript web"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959188,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 732,
+    "text": "/book 360"
+}
+"Book name : JavaScript Web Applications\nPublisher : O'Reilly Media\nAuthor : Alex MacCaw\nDate : 2011\nPages : 280\nFile size:9.5 MB\nBuy original from : http://isbn.directory/book/9781449303518"
+"book already existed"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466959346,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 737,
+    "text": "/start"
+}
+"Hey there TANVEET!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466959370,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 738,
+    "text": "You are mad"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959893,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 742,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466960147,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 744,
+    "text": "Php"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466960381,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 746,
+    "text": "Php web scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960411,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 748,
+    "text": "Bakwas"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960416,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 750,
+    "text": "Get lost"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960423,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 752,
+    "text": "Rajdeep is mad"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466961030,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 754,
+    "text": "Raspberry pi"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961393,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 756,
+    "text": "/start"
+}
+"Hey there Jaskaran!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961415,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 757,
+    "text": "Sherlock Holmes"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961478,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 760,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961743,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 762,
+    "text": "Let us c"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961812,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 764,
+    "text": "E balaguru swami"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962011,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 766,
+    "text": "scraping"
+}
+"list sent to Jaskaran"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962052,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 768,
+    "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"
+}
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962057,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 769,
+    "text": "Nyccc"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962109,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 771,
+    "text": "/start"
+}
+"Hey there Jayesh!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466962127,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 773,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962141,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 775,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962185,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 777,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962296,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 779,
+    "text": "Introduction to algorithms"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962311,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 781,
+    "text": "Cormen"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962364,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 783,
+    "text": "Herbert schildit"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962369,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 785,
+    "text": "Herbert"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962640,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 787,
+    "text": "/start"
+}
+"Hey there Angad!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962695,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 789,
+    "text": "Programming django"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962702,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 791,
+    "text": "B.S. grewal"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962761,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 793,
+    "text": "Rd sharma"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962840,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 795,
+    "text": "5 point someone"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962864,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 797,
+    "text": "Bible"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962865,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 798,
+    "text": "Django"
+}
+"list sent to Jayesh"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962892,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 801,
+    "text": "/book 6982"
+}
+"Book name : Django Design Patterns and Best Practices\nPublisher : Packt Publishing\nAuthor : Arun Ravindran\nDate : 2015\nPages : 222\nFile size:12.3 MB\nBuy original from : http://isbn.directory/book/9781783986644"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963428,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 807,
+    "text": "Complete reference"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963443,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 809,
+    "text": "3340"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963528,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 811,
+    "text": "/book 3340"
+}
+"Book name : Information Security The Complete Reference, 2nd Edition\nPublisher : McGraw-Hill\nAuthor : Mark Rhodes-Ousley\nDate : 2013\nPages : 896\nFile size:29.8 MB\nBuy original from : http://isbn.directory/book/9780071784351"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963582,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 814,
+    "text": "Jaldi bhejo"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963743,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 819,
+    "text": "Game"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963922,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 821,
+    "text": "Libgdx"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964052,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 823,
+    "text": "Unity"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964075,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 825,
+    "text": "/book 1170"
+}
+"Book name : SOA Patterns\nPublisher : Manning\nAuthor : Arnon Rotem-Gal-Oz\nDate : 2012\nPages : 296\nFile size:15.2 MB\nBuy original from : http://isbn.directory/book/9781933988269"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964089,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 828,
+    "text": "/book 1234"
+}
+"Book name : Windows Presentation Foundation 4.5 Cookbook\nPublisher : Packt Publishing\nAuthor : Pavel Yosifovich\nDate : 2012\nPages : 464\nFile size:7.4 MB\nBuy original from : http://isbn.directory/book/9781849686228"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964263,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 832,
+    "text": "\\book 6682"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964301,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 833,
+    "text": "/book 3770"
+}
+"Book name : Cloud Computing Bible\nPublisher : Wiley\nAuthor : Barrie Sosinsky\nDate : 2011\nPages : 532\nFile size:19.1 MB\nBuy original from : http://isbn.directory/book/9780470903568"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964362,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 836,
+    "text": "\\book 2293"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964375,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 839,
+    "text": "/book 2292"
+}
+"Book name : Linux Bible\nPublisher : Wiley\nAuthor : Christopher Negus\nDate : 2006\nPages : 912\nFile size:20.2 MB\nBuy original from : http://isbn.directory/book/9780471754893"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964390,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 841,
+    "text": "/book 2293"
+}
+"Book name : SolidWorks 2007 Bible\nPublisher : Wiley\nAuthor : Matt Lombard\nDate : 2008\nPages : 1104\nFile size:43.9 MB\nBuy original from : http://isbn.directory/book/9780470377581"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964396,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 844,
+    "text": "/book 2294"
+}
+"Book name : AutoCAD 2009 and AutoCAD LT 2009 Bible\nPublisher : Wiley\nAuthor : Ellen Finkelstein\nDate : 2008\nPages : 1272\nFile size:52.8 MB\nBuy original from : http://isbn.directory/book/9780470260173"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964411,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 845,
+    "text": "/book 2295"
+}
+"Book name : SolidWorks 2009 Bible\nPublisher : Wiley\nAuthor : Matt Lombard\nDate : 2009\nPages : 1200\nFile size:47.3 MB\nBuy original from : http://isbn.directory/book/9780470480489"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964416,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 846,
+    "text": "/book 2296"
+}
+"Book name : Flash and PHP Bible\nPublisher : Wiley\nAuthor : Matthew Keefe\nDate : 2008\nPages : 508\nFile size:14.9 MB\nBuy original from : http://isbn.directory/book/9780470258248"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964421,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 847,
+    "text": "/book 2297"
+}
+"Book name : Microsoft Dynamics CRM 2011 Administration Bible\nPublisher : Wiley\nAuthor : Matthew Wittemann, Geoff Ables\nDate : 2011\nPages : 816\nFile size:66.8 MB\nBuy original from : http://isbn.directory/book/9780470568149"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964425,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 849,
+    "text": "/book 2298"
+}
+"Book name : Adobe Photoshop CS6 Bible\nPublisher : Wiley\nAuthor : Brad Dayley, DaNae Dayley\nDate : 2012\nPages : 1104\nFile size:79.2 MB\nBuy original from : http://isbn.directory/book/9781118123881"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964615,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 858,
+    "text": "/book 4870"
+}
+"Book name : Learning LibGDX Game Development, 2nd Edition\nPublisher : Packt Publishing\nAuthor : Suryakumar Balakrishnan Nair, Andreas Oehlke\nDate : 2015\nPages : 478\nFile size:10.3 MB\nBuy original from : http://isbn.directory/book/9781783554775"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964645,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 860,
+    "text": "\\book 6682"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964660,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 863,
+    "text": "/book 6682"
+}
+"Book name : Mastering LibGDX Game Development\nPublisher : Packt Publishing\nAuthor : Patrick Hoey\nDate : 2015\nPages : 420\nFile size:30 MB\nBuy original from : http://isbn.directory/book/9781785289361"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965449,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 880,
+    "text": "sys.exit()"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965602,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 884,
+    "text": "\\book 6287"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965612,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 885,
+    "text": "/book 6287"
+}
+"Book name : Unity Virtual Reality Projects\nPublisher : Packt Publishing\nAuthor : Jonathan Linowes\nDate : 2015\nPages : 286\nFile size:5.6 MB\nBuy original from : http://isbn.directory/book/9781783988556"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968723,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 917,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466968879,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 920,
+    "text": "Lol"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466968905,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 922,
+    "text": "Fir request maaru is book ke liye?"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968976,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 924,
+    "text": "Safe"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968982,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 926,
+    "text": "/book 789"
+}
+"Book name : Safe C++\nPublisher : O'Reilly Media\nAuthor : Vladimir Kushnir\nDate : 2012\nPages : 142\nFile size:6.2 MB\nBuy original from : http://isbn.directory/book/9781449320935"
+"book already existed"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466969131,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 931,
+    "text": "/book .*"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466969289,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 932,
+    "text": "/book 789"
+}
+"Book name : Safe C++\nPublisher : O'Reilly Media\nAuthor : Vladimir Kushnir\nDate : 2012\nPages : 142\nFile size:6.2 MB\nBuy original from : http://isbn.directory/book/9781449320935"
+"book already existed"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466969686,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 938,
+    "text": "\ud83d\ude48"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970208,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 939,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970208,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 939,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970440,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 943,
+    "text": "Dhanyawaad Bot Saab"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970523,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 945,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970523,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 945,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970748,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 950,
+    "text": "/book *' or delete * from book 1--"
+}
+{
+    "chat": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal",
+        "type": "private"
+    },
+    "date": 1466978794,
+    "from": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal"
+    },
+    "message_id": 951,
+    "text": "Django"
+}
+"list sent to Sahil"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466994402,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 953,
+    "text": "Flask"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466999897,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 955,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467001171,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh"
+    },
+    "message_id": 957,
+    "text": "/start"
+}
+"Hey there Raunaq!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467001198,
+    "from": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh"
+    },
+    "message_id": 959,
+    "text": "Hc verma"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467001243,
+    "from": {
+        "first_name": "Raunaq",
+        "id": 173375627,
+        "last_name": "Singh"
+    },
+    "message_id": 961,
+    "text": "Rajdeep biography"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467002821,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 963,
+    "text": "Rest"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467008467,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 965,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010354,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 967,
+    "text": "Html"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010375,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 969,
+    "text": "Html app"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010381,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 971,
+    "text": "Web apps"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010422,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 973,
+    "text": "Realtime web"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010436,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 975,
+    "text": "/book 5196"
+}
+"Book name : Realtime Web Apps\nPublisher : Apress\nAuthor : Jason Lengstorf, Phil Leggetter\nDate : 2013\nPages : 312\nFile size:13 MB\nBuy original from : http://isbn.directory/book/9781430246206"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467035483,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 981,
+    "text": "Angular"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467037431,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 983,
+    "text": "/start"
+}
+"Hey there Saakhi!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467037450,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 985,
+    "text": "Java the complete reference"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038528,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 987,
+    "text": "Java the complete reference Herbert schildt"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038557,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 989,
+    "text": "Bekar"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038562,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 990,
+    "text": "Bot"
+}
+"list sent to Saakhi"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038621,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 993,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467039567,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 994,
+    "text": "/start"
+}
+"Hey there Kaustubh!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467039703,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 997,
+    "text": "Ember"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040435,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 999,
+    "text": "Thermodynamics"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040449,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1001,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040579,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1003,
+    "text": "Programming in html"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040593,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1005,
+    "text": "Html"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040609,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1007,
+    "text": "Python programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040630,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1009,
+    "text": "Css programmers"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040677,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1011,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040714,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1013,
+    "text": "Java programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040727,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1015,
+    "text": "Javascript programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040737,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1017,
+    "text": "Yo"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467054937,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 1019,
+    "text": "Php scrapping"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467059437,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 1020,
+    "text": "/book *"
+}
+{
+    "chat": {
+        "first_name": "Jasbir",
+        "id": 122539485,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467145331,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jasbir",
+        "id": 122539485,
+        "last_name": "Singh"
+    },
+    "message_id": 1022,
+    "text": "/start"
+}
+"Hey there Jasbir!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Jasbir",
+        "id": 122539485,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467145341,
+    "from": {
+        "first_name": "Jasbir",
+        "id": 122539485,
+        "last_name": "Singh"
+    },
+    "message_id": 1023,
+    "text": "Python"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173011,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1026,
+    "text": "python"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173187,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1028,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173187,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1028,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173273,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1029,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173303,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1032,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal",
+        "type": "private"
+    },
+    "date": 1467173398,
+    "from": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal"
+    },
+    "message_id": 1033,
+    "text": "Data structures and algorithms"
+}
+"list sent to Sahil"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173400,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1035,
+    "text": "python"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173590,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1036,
+    "text": "data structures"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173634,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1038,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal",
+        "type": "private"
+    },
+    "date": 1467173930,
+    "from": {
+        "first_name": "Sahil",
+        "id": 222421886,
+        "last_name": "Sehgal"
+    },
+    "message_id": 1039,
+    "text": "Data structures with C"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173972,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1041,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467174012,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1042,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175274,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1053,
+    "text": "scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280973,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1061,
+    "text": "Programming python"
+}
+"list sent to TANVEET"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280988,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1063,
+    "text": "5715"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280999,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1065,
+    "text": "Programming python"
+}
+"list sent to TANVEET"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467281021,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1067,
+    "text": "/send 5715"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467281043,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1069,
+    "text": "Doesn't work man!"
+}
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467308578,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1070,
+    "text": "Html5 programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382628,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1072,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382735,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1074,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382772,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1079,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383101,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1092,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383177,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1093,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383101,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1092,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383177,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1093,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383277,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1094,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383404,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1102,
+    "text": "Python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383677,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1106,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383696,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1112,
+    "text": "/book 5358"
+}
+"Book name : Beginning Java 8 APIs, Extensions and Libraries\nPublisher : Apress\nAuthor : Kishori  Sharan\nDate : 2014\nPages : 808\nFile size:10.3 MB\nBuy original from : http://isbn.directory/book/9781430266617"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383877,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1121,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467384268,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1123,
+    "text": "Java"
+}
+"List sent but the keyword was too general"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467384626,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1132,
+    "text": "Woohoo"
+}
+"Book not found. Try changing the keyword"

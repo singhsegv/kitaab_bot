@@ -1,0 +1,97 @@
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467037431,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 983,
+    "text": "/start"
+}
+"Hey there Saakhi!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467037450,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 985,
+    "text": "Java the complete reference"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038528,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 987,
+    "text": "Java the complete reference Herbert schildt"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038557,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 989,
+    "text": "Bekar"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038562,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 990,
+    "text": "Bot"
+}
+"list sent to Saakhi"
+{
+    "chat": {
+        "first_name": "Saakhi",
+        "id": 220622217,
+        "type": "private"
+    },
+    "date": 1467038621,
+    "from": {
+        "first_name": "Saakhi",
+        "id": 220622217
+    },
+    "message_id": 993,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"

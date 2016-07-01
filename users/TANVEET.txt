@@ -1,0 +1,183 @@
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466959346,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 737,
+    "text": "/start"
+}
+"Hey there TANVEET!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466959370,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 738,
+    "text": "You are mad"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960411,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 748,
+    "text": "Bakwas"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960416,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 750,
+    "text": "Get lost"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1466960423,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 752,
+    "text": "Rajdeep is mad"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280973,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1061,
+    "text": "Programming python"
+}
+"list sent to TANVEET"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280988,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1063,
+    "text": "5715"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467280999,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1065,
+    "text": "Programming python"
+}
+"list sent to TANVEET"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467281021,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1067,
+    "text": "/send 5715"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR",
+        "type": "private"
+    },
+    "date": 1467281043,
+    "from": {
+        "first_name": "TANVEET",
+        "id": 202363425,
+        "last_name": "KAUR"
+    },
+    "message_id": 1069,
+    "text": "Doesn't work man!"
+}

@@ -1,0 +1,958 @@
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958432,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 721,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958432,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 721,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958460,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 722,
+    "text": "Wpohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958536,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 723,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958586,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 724,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958699,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 725,
+    "text": "Woohoo"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466958699,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 725,
+    "text": "Woohoo"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959034,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 728,
+    "text": "/start"
+}
+"Hey there rajdeep!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959180,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 730,
+    "text": "Javascript web"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959188,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 732,
+    "text": "/book 360"
+}
+"Book name : JavaScript Web Applications\nPublisher : O'Reilly Media\nAuthor : Alex MacCaw\nDate : 2011\nPages : 280\nFile size:9.5 MB\nBuy original from : http://isbn.directory/book/9781449303518"
+"book already existed"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466959893,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 742,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466960147,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 744,
+    "text": "Php"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466960381,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 746,
+    "text": "Php web scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466961030,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 754,
+    "text": "Raspberry pi"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466962127,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 773,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968723,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 917,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968976,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 924,
+    "text": "Safe"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466968982,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 926,
+    "text": "/book 789"
+}
+"Book name : Safe C++\nPublisher : O'Reilly Media\nAuthor : Vladimir Kushnir\nDate : 2012\nPages : 142\nFile size:6.2 MB\nBuy original from : http://isbn.directory/book/9781449320935"
+"book already existed"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466969289,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 932,
+    "text": "/book 789"
+}
+"Book name : Safe C++\nPublisher : O'Reilly Media\nAuthor : Vladimir Kushnir\nDate : 2012\nPages : 142\nFile size:6.2 MB\nBuy original from : http://isbn.directory/book/9781449320935"
+"book already existed"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466994402,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 953,
+    "text": "Flask"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1466999897,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 955,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467002821,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 963,
+    "text": "Rest"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467008467,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 965,
+    "text": "Django"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010354,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 967,
+    "text": "Html"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010375,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 969,
+    "text": "Html app"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010381,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 971,
+    "text": "Web apps"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010422,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 973,
+    "text": "Realtime web"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467010436,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 975,
+    "text": "/book 5196"
+}
+"Book name : Realtime Web Apps\nPublisher : Apress\nAuthor : Jason Lengstorf, Phil Leggetter\nDate : 2013\nPages : 312\nFile size:13 MB\nBuy original from : http://isbn.directory/book/9781430246206"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467035483,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 981,
+    "text": "Angular"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467039703,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 997,
+    "text": "Ember"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173011,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1026,
+    "text": "python"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173187,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1028,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173187,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1028,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173273,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1029,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173303,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1032,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173400,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1035,
+    "text": "python"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173590,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1036,
+    "text": "data structures"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173634,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1038,
+    "text": "java"
+}
+"send smaller lists"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467173972,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1041,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467174012,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1042,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175205,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1043,
+    "text": "python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467175274,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1053,
+    "text": "scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382628,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1072,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382735,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1074,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382772,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1079,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383101,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1092,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383177,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1093,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467382867,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1084,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383101,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1092,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383177,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1093,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383277,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1094,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383404,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1102,
+    "text": "Python"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383677,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1106,
+    "text": "Java"
+}
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383696,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1112,
+    "text": "/book 5358"
+}
+"Book name : Beginning Java 8 APIs, Extensions and Libraries\nPublisher : Apress\nAuthor : Kishori  Sharan\nDate : 2014\nPages : 808\nFile size:10.3 MB\nBuy original from : http://isbn.directory/book/9781430266617"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467383877,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1121,
+    "text": "Scraping"
+}
+"list sent to rajdeep"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467384268,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1123,
+    "text": "Java"
+}
+"List sent but the keyword was too general"
+{
+    "chat": {
+        "first_name": "rajdeep",
+        "id": 237338090,
+        "type": "private"
+    },
+    "date": 1467384626,
+    "from": {
+        "first_name": "rajdeep",
+        "id": 237338090
+    },
+    "message_id": 1132,
+    "text": "Woohoo"
+}
+"Book not found. Try changing the keyword"

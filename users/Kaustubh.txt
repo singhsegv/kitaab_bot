@@ -1,0 +1,194 @@
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467039567,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 994,
+    "text": "/start"
+}
+"Hey there Kaustubh!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040435,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 999,
+    "text": "Thermodynamics"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040449,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1001,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040579,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1003,
+    "text": "Programming in html"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040593,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1005,
+    "text": "Html"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040609,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1007,
+    "text": "Python programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040630,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1009,
+    "text": "Css programmers"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040677,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1011,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040714,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1013,
+    "text": "Java programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040727,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1015,
+    "text": "Javascript programming"
+}
+"list sent to Kaustubh"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467040737,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1017,
+    "text": "Yo"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Kaustubh",
+        "id": 195004877,
+        "type": "private"
+    },
+    "date": 1467308578,
+    "from": {
+        "first_name": "Kaustubh",
+        "id": 195004877
+    },
+    "message_id": 1070,
+    "text": "Html5 programming"
+}
+"list sent to Kaustubh"

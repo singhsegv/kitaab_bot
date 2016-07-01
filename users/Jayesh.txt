@@ -1,0 +1,192 @@
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962109,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 771,
+    "text": "/start"
+}
+"Hey there Jayesh!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962141,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 775,
+    "text": "/help"
+}
+"Just type the book name as accurate as possible to get best results. Maximum size of book telegram supports as of now is 50mb so some pdfs can't be sent. After typing the book name you will get response of the form number : name. Last step is to send /book <number> without brackets with number selected from results."
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962185,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 777,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962296,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 779,
+    "text": "Introduction to algorithms"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962311,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 781,
+    "text": "Cormen"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962364,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 783,
+    "text": "Herbert schildit"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962369,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 785,
+    "text": "Herbert"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962695,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 789,
+    "text": "Programming django"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962865,
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 798,
+    "text": "Django"
+}
+"list sent to Jayesh"
+{
+    "chat": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani",
+        "type": "private"
+    },
+    "date": 1466962892,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jayesh",
+        "id": 233688048,
+        "last_name": "Bidani"
+    },
+    "message_id": 801,
+    "text": "/book 6982"
+}
+"Book name : Django Design Patterns and Best Practices\nPublisher : Packt Publishing\nAuthor : Arun Ravindran\nDate : 2015\nPages : 222\nFile size:12.3 MB\nBuy original from : http://isbn.directory/book/9781783986644"
+"downloading the book"

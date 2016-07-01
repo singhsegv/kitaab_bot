@@ -1,0 +1,984 @@
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962640,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 787,
+    "text": "/start"
+}
+"Hey there Angad!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962702,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 791,
+    "text": "B.S. grewal"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962761,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 793,
+    "text": "Rd sharma"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962840,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 795,
+    "text": "5 point someone"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962864,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 797,
+    "text": "Bible"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963428,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 807,
+    "text": "Complete reference"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963443,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 809,
+    "text": "3340"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963528,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 811,
+    "text": "/book 3340"
+}
+"Book name : Information Security The Complete Reference, 2nd Edition\nPublisher : McGraw-Hill\nAuthor : Mark Rhodes-Ousley\nDate : 2013\nPages : 896\nFile size:29.8 MB\nBuy original from : http://isbn.directory/book/9780071784351"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963582,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 814,
+    "text": "Jaldi bhejo"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963743,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 819,
+    "text": "Game"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466963922,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 821,
+    "text": "Libgdx"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964052,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 823,
+    "text": "Unity"
+}
+"list sent to Angad"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964075,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 825,
+    "text": "/book 1170"
+}
+"Book name : SOA Patterns\nPublisher : Manning\nAuthor : Arnon Rotem-Gal-Oz\nDate : 2012\nPages : 296\nFile size:15.2 MB\nBuy original from : http://isbn.directory/book/9781933988269"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964089,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 828,
+    "text": "/book 1234"
+}
+"Book name : Windows Presentation Foundation 4.5 Cookbook\nPublisher : Packt Publishing\nAuthor : Pavel Yosifovich\nDate : 2012\nPages : 464\nFile size:7.4 MB\nBuy original from : http://isbn.directory/book/9781849686228"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964263,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 832,
+    "text": "\\book 6682"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964301,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 833,
+    "text": "/book 3770"
+}
+"Book name : Cloud Computing Bible\nPublisher : Wiley\nAuthor : Barrie Sosinsky\nDate : 2011\nPages : 532\nFile size:19.1 MB\nBuy original from : http://isbn.directory/book/9780470903568"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964362,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 836,
+    "text": "\\book 2293"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964375,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 839,
+    "text": "/book 2292"
+}
+"Book name : Linux Bible\nPublisher : Wiley\nAuthor : Christopher Negus\nDate : 2006\nPages : 912\nFile size:20.2 MB\nBuy original from : http://isbn.directory/book/9780471754893"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964390,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 841,
+    "text": "/book 2293"
+}
+"Book name : SolidWorks 2007 Bible\nPublisher : Wiley\nAuthor : Matt Lombard\nDate : 2008\nPages : 1104\nFile size:43.9 MB\nBuy original from : http://isbn.directory/book/9780470377581"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964396,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 844,
+    "text": "/book 2294"
+}
+"Book name : AutoCAD 2009 and AutoCAD LT 2009 Bible\nPublisher : Wiley\nAuthor : Ellen Finkelstein\nDate : 2008\nPages : 1272\nFile size:52.8 MB\nBuy original from : http://isbn.directory/book/9780470260173"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964411,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 845,
+    "text": "/book 2295"
+}
+"Book name : SolidWorks 2009 Bible\nPublisher : Wiley\nAuthor : Matt Lombard\nDate : 2009\nPages : 1200\nFile size:47.3 MB\nBuy original from : http://isbn.directory/book/9780470480489"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964416,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 846,
+    "text": "/book 2296"
+}
+"Book name : Flash and PHP Bible\nPublisher : Wiley\nAuthor : Matthew Keefe\nDate : 2008\nPages : 508\nFile size:14.9 MB\nBuy original from : http://isbn.directory/book/9780470258248"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964421,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 847,
+    "text": "/book 2297"
+}
+"Book name : Microsoft Dynamics CRM 2011 Administration Bible\nPublisher : Wiley\nAuthor : Matthew Wittemann, Geoff Ables\nDate : 2011\nPages : 816\nFile size:66.8 MB\nBuy original from : http://isbn.directory/book/9780470568149"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964425,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 849,
+    "text": "/book 2298"
+}
+"Book name : Adobe Photoshop CS6 Bible\nPublisher : Wiley\nAuthor : Brad Dayley, DaNae Dayley\nDate : 2012\nPages : 1104\nFile size:79.2 MB\nBuy original from : http://isbn.directory/book/9781118123881"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964615,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 858,
+    "text": "/book 4870"
+}
+"Book name : Learning LibGDX Game Development, 2nd Edition\nPublisher : Packt Publishing\nAuthor : Suryakumar Balakrishnan Nair, Andreas Oehlke\nDate : 2015\nPages : 478\nFile size:10.3 MB\nBuy original from : http://isbn.directory/book/9781783554775"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964645,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 860,
+    "text": "\\book 6682"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466964660,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 863,
+    "text": "/book 6682"
+}
+"Book name : Mastering LibGDX Game Development\nPublisher : Packt Publishing\nAuthor : Patrick Hoey\nDate : 2015\nPages : 420\nFile size:30 MB\nBuy original from : http://isbn.directory/book/9781785289361"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965449,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 880,
+    "text": "sys.exit()"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965602,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 884,
+    "text": "\\book 6287"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466965612,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 885,
+    "text": "/book 6287"
+}
+"Book name : Unity Virtual Reality Projects\nPublisher : Packt Publishing\nAuthor : Jonathan Linowes\nDate : 2015\nPages : 286\nFile size:5.6 MB\nBuy original from : http://isbn.directory/book/9781783988556"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466966967,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 908,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466968879,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 920,
+    "text": "Lol"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466968905,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 922,
+    "text": "Fir request maaru is book ke liye?"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466969131,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 931,
+    "text": "/book .*"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466969686,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 938,
+    "text": "\ud83d\ude48"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970208,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 939,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970208,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 939,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970440,
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 943,
+    "text": "Dhanyawaad Bot Saab"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970523,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 945,
+    "text": "/book 6784"
+}
+"Book name : LibGDX Cross-Platform Development Blueprints\nPublisher : Packt Publishing\nAuthor : Indraneel Potnis\nDate : 2015\nPages : 316\nFile size:18 MB\nBuy original from : http://isbn.directory/book/9781783982066"
+"downloading the book"
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970523,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 945,
+    "text": "/book 6784"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466970748,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 950,
+    "text": "/book *' or delete * from book 1--"
+}
+{
+    "chat": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467059437,
+    "entities": [
+        {
+            "length": 5,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Angad",
+        "id": 229968773,
+        "last_name": "Singh"
+    },
+    "message_id": 1020,
+    "text": "/book *"
+}

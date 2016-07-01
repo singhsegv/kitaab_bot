@@ -1,5 +1,5 @@
 # book index ranges from 1 to 7035
-# update name of database and columns by your choice 
+# update name of database and columns by your choice
 
 from urllib2 import *
 from bs4 import BeautifulSoup

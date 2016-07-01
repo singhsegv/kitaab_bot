@@ -33,7 +33,7 @@ def search_name(book_name):
     conn = pymysql.connect(host='127.0.0.1',
                                 unix_socket='/var/run/mysqld/mysqld.sock',
                                 user='root',
-                                passwd='your password',
+                                passwd='password',
                                 db='mysql')
     cur = conn.cursor()
     cur.execute("USE books;")
@@ -62,7 +62,7 @@ def get_book_name(number):
     conn = pymysql.connect(host='127.0.0.1',
                                 unix_socket='/var/run/mysqld/mysqld.sock',
                                 user='root',
-                                passwd='your password',
+                                passwd='password',
                                 db='mysql')
     cur = conn.cursor()
     cur.execute("USE books;")
@@ -151,18 +151,36 @@ def handle(msg):
                 send_book(msg, book_name)
 
         else:
-            book_list = search_name(message.lower())
+            try:
+                book_list = search_name(message.lower())
+            except UnicodeEncodeError as e:
+                bot.sendMessage(chat_id, "Emojis and special characters are not supported.")
             try:
                 send_list(msg, book_list)
-            except TelegramError as e:
-                print(e)
+            except telepot.TelegramError as e:
+                if e[0] == 'Bad Request: Message text is empty':
+                    bot.sendMessage(chat_id, "Book not found. Try changing the keyword")
+                    save_user_logs(msg, "Book not found. Try changing the keyword")
+                else:
+                    counter = 0
+                    message = ""
+                    for li in book_list:
+                        message += li[0] + '   :   ' + li[1] + '\n\n'
+                        counter += 1
+                        if counter >= 50:
+                            bot.sendMessage(chat_id, message)
+                            counter = 0
+                            message = ""
+                    bot.sendMessage(chat_id, "Your keyword maybe too general. Try to be more specific next time.")
+                    save_user_logs(msg, "List sent but the keyword was too general")
+                    print("List sent but the keyword was too general")
 
     else:
         bot.sendMessage(chat_id, 'Please send a book name only!!')
         save_user_logs(msg, 'Error! user sent some file')
 
 
-TOKEN = 'telegram bot api key'
+TOKEN = 'add your telegram api token'
 
 bot = telepot.Bot(TOKEN)
 bot.message_loop(handle)

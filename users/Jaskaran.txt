@@ -1,0 +1,159 @@
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961393,
+    "entities": [
+        {
+            "length": 6,
+            "offset": 0,
+            "type": "bot_command"
+        }
+    ],
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 756,
+    "text": "/start"
+}
+"Hey there Jaskaran!!\nTo start using kitaab bot (the book bot), all you have to do is send the name of the book and it will revert you with choices e.g., you send programming python and it will respond with 125 : Programming python.\nThe next step is to send /book 125 and it will automagically download and send you the book.\n.If the bot is not responding, it may be due to internet fault in my laptop, be patient and wait for the reply before sending a new message. \nFor any help, send /help\nEnjoy ;)"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961415,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 757,
+    "text": "Sherlock Holmes"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961478,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 760,
+    "text": "Java"
+}
+"Your keyword maybe too general. Try to be more specific"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961743,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 762,
+    "text": "Let us c"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466961812,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 764,
+    "text": "E balaguru swami"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962011,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 766,
+    "text": "scraping"
+}
+"list sent to Jaskaran"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962052,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 768,
+    "text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"
+}
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1466962057,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 769,
+    "text": "Nyccc"
+}
+"Book not found. Try changing the keyword"
+{
+    "chat": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh",
+        "type": "private"
+    },
+    "date": 1467054937,
+    "from": {
+        "first_name": "Jaskaran",
+        "id": 141056629,
+        "last_name": "Singh"
+    },
+    "message_id": 1019,
+    "text": "Php scrapping"
+}
+"Book not found. Try changing the keyword"
