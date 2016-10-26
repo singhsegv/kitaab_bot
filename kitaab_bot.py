@@ -103,7 +103,7 @@ def save_user_logs(msg, message):
 
 #Required Edit 3
 #Replace the below path with your path of log file
-    with open(LOG_PATH, 'a') as log_file:
+    with open(LOG_PATH +'/logs.txt', 'a') as log_file:
         log_file.write(final_message)
         log_file.write('\n')
 
