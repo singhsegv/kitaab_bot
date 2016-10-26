@@ -8,15 +8,20 @@ import scrape
 import os.path
 import json
 
-DOWNLOAD_PATH = '/home/rajdeep1008/Downloads/'
+#Required Edit 1
+#add your custom download path below in the quotes('')
+DOWNLOAD_PATH = '     '
+ 
 
-LOG_PATH = '/home/rajdeep1008/kitaab_bot/users/'
+#Required Edit 2
+#add your custom Log path below in the quotes('')
+LOG_PATH = '   	  '
 
 welcome_msg = 'Hey there %s!!\nTo start using kitaab bot (the book bot),\
  all you have to do is send the name of the book and it will\
  revert you with choices e.g., you send programming python and it will\
  respond with 125 : Programming python.\nThe next\
- step is to send /book 125 and it will automagically download and send\
+ step is to send /book 125 and it will automatically download and send\
  you the book.\n.If the bot is not responding, it may be due to internet\
  fault in my laptop, be patient and wait for the reply before sending a new message.\
  \nFor any help, send /help\nEnjoy ;)'
@@ -95,7 +100,11 @@ def save_user_logs(msg, message):
         text_file.write(final_message)
         text_file.write('\n')
 
-    with open('/home/rajdeep1008/kitaab_bot/logs.txt', 'a') as log_file:
+
+#Required Edit 3
+#Replace the below path with your path of log file
+
+    with open('/kitaab_bot/logs.txt', 'a') as log_file:
         log_file.write(final_message)
         log_file.write('\n')
 
@@ -140,7 +149,9 @@ def handle(msg):
             save_user_logs(msg, book_description)
             print(book_description)
 
-            if os.path.isfile('/home/rajdeep1008/Downloads/' + book_name + '.pdf'):
+#Required Edit 4
+#add your pre existing book's folder path below in the quotes (' ')
+            if os.path.isfile('    ' + book_name + '.pdf'):
                 bot.sendMessage(chat_id, "Downloading your book, it may take some time\nWait for the bot to send this book before requesting any other book.")
                 save_user_logs(msg, 'book already existed')
                 send_book(msg, book_name)
