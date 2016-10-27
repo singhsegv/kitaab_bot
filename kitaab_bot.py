@@ -15,7 +15,7 @@ DOWNLOAD_PATH = '     '
 
 #Required Edit 2
 #add your custom Log path below in the quotes('')
-LOG_PATH = '   	  '
+LOG_PATH = '     '
 
 welcome_msg = 'Hey there %s!!\nTo start using kitaab bot (the book bot),\
  all you have to do is send the name of the book and it will\
@@ -103,8 +103,7 @@ def save_user_logs(msg, message):
 
 #Required Edit 3
 #Replace the below path with your path of log file
-
-    with open('/kitaab_bot/logs.txt', 'a') as log_file:
+    with open(LOG_PATH +'/logs.txt', 'a') as log_file:
         log_file.write(final_message)
         log_file.write('\n')
 
@@ -151,7 +150,7 @@ def handle(msg):
 
 #Required Edit 4
 #add your pre existing book's folder path below in the quotes (' ')
-            if os.path.isfile('    ' + book_name + '.pdf'):
+            if os.path.isfile(DOWNLOAD_PATH + book_name + '.pdf'):
                 bot.sendMessage(chat_id, "Downloading your book, it may take some time\nWait for the bot to send this book before requesting any other book.")
                 save_user_logs(msg, 'book already existed')
                 send_book(msg, book_name)
